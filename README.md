@@ -1,3 +1,4 @@
 # jenkins-KubernetesCluster
 
-![kub](https://github.com/VardhanLearn/Jenkins-KubernetesCluster/assets/87961252/dbb624cf-a941-4c7e-bcf0-1d5b7c91e069)
+![kub](https://github.com/VardhanLearn/Jenkins-KubernetesCluster/assets/87961252/7b927f46-49fd-4a7d-96d1-5ff88a7289c1)
+
